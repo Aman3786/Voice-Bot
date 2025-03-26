@@ -25,8 +25,8 @@ An interactive AI-powered voice bot application built with **Streamlit** and pow
 ## :zap: Installation & Setup
 ### :one: Clone the Repository 
 ```bash
-git clone https://github.com/Aman3786/voice-bot.git
-cd voice-bot
+git clone https://github.com/Aman3786/Voice-Bot.git
+cd Voice-Bot
 ```
 ### :three: Install Dependencies
 ```bash
