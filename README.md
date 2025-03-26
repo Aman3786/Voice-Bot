@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```
 For Linux (Terminal)
 ```bash
-sudo apt install python3-pip
+pip3 install -r requirements.txt
 ```
 
 ### :three: Run the Application (Inside CMD/Terminal)
