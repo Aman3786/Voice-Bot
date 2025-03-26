@@ -1,6 +1,14 @@
 # :studio_microphone: Voice Bot with Python, Streamlit & OpenAI
 An interactive AI-powered voice bot application built with **Streamlit** and powered by **OpenAI models**. This app enables real-time speech-to-text transcription, AI-generated responses, and text-to-speech conversion, offering a seamless conversational experience.
 
+Check Now: https://voicebot.up.railway.app/
+
+**IMP POINT**-
+- Put your OpenAI API Key in the input field "Enter Your OpenAI API Key" to use voice bot. Refer Screenshot Below.
+  
+![image](https://github.com/user-attachments/assets/895f8a5b-a34e-4388-851a-e8aaf196279e)
+
+
 ## :rocket: Features
 :white_check_mark: **Voice Transcription** – Converts speech to text using **Whisper-1**.
 
@@ -22,7 +30,7 @@ An interactive AI-powered voice bot application built with **Streamlit** and pow
 | **GPT-3.5-Turbo / GPT-4o** | AI-powered text response generation |
 | **TTS-1, TTS-1-HD, GPT-4o-Mini-TTS** | Text-to-speech Audio generation |
 ---
-## :zap: Installation & Setup
+## :zap: Installation & Setup (Run locally)
 ### :one: Clone the Repository 
 ```bash
 git clone https://github.com/Aman3786/Voice-Bot.git
@@ -38,6 +46,9 @@ streamlit run app.py
 ```
 ### :six: Access the App
 * Open http://localhost:8501 in your browser.
+
+### :seven: Enter OpenAI API Key
+* Put your **OpenAI** API Key in the input field "Enter Your OpenAI API Key" to use voice bot.
 ---
 
 ## :crystal_ball: OpenAI Models Used
