@@ -1,4 +1,4 @@
-# :studio_microphone: Voice Bot with Streamlit & OpenAI
+# :studio_microphone: Voice Bot with Python, Streamlit & OpenAI
 An interactive AI-powered voice bot application built with **Streamlit** and powered by **OpenAI models**. This app enables real-time speech-to-text transcription, AI-generated responses, and text-to-speech conversion, offering a seamless conversational experience.
 
 ## :rocket: Features
