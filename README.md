@@ -30,6 +30,11 @@ Check Now: https://voicebot.up.railway.app/
 | **GPT-3.5-Turbo / GPT-4o** | AI-powered text response generation |
 | **TTS-1, TTS-1-HD, GPT-4o-Mini-TTS** | Text-to-speech Audio generation |
 ---
+
+## :gear: Pre-requisite
+- Python 3.11+ (Install it from here: https://www.python.org/downloads/
+---
+
 ## :zap: Installation & Setup (Run locally)
 ### :one: Clone the Repository 
 ```bash
@@ -37,10 +42,16 @@ git clone https://github.com/Aman3786/Voice-Bot.git
 cd Voice-Bot
 ```
 ### :two: Install Dependencies
+For Windows (CMD)
 ```bash
 pip install -r requirements.txt
 ```
-### :three: Run the Application
+For Linux (Terminal)
+```bash
+sudo apt install python3-pip
+```
+
+### :three: Run the Application (Inside CMD/Terminal)
 ```bash
 streamlit run app.py
 ```
