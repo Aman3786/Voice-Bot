@@ -35,7 +35,7 @@ Check Now: https://voicebot.up.railway.app/
 - Python 3.11+ (Install it from here: https://www.python.org/downloads/
 ---
 
-## :zap: Installation & Setup (Run locally)
+## :zap: Installation & Setup (To Run locally)
 ### :one: Clone the Repository 
 ```bash
 git clone https://github.com/Aman3786/Voice-Bot.git
