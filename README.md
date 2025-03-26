@@ -36,18 +36,18 @@ Check Now: https://voicebot.up.railway.app/
 git clone https://github.com/Aman3786/Voice-Bot.git
 cd Voice-Bot
 ```
-### :three: Install Dependencies
+### :two: Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### :five: Run the Application
+### :three: Run the Application
 ```bash
 streamlit run app.py
 ```
-### :six: Access the App
+### :four: Access the App
 * Open http://localhost:8501 in your browser.
 
-### :seven: Enter OpenAI API Key
+### :five: Enter OpenAI API Key
 * Put your **OpenAI** API Key in the input field "Enter Your OpenAI API Key" to use voice bot.
 ---
 
